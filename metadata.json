@@ -1,0 +1,6 @@
+{
+  "name": "FILEFLOW",
+  "description": "Everything Your Files Need — offline-first PDF master toolkit, image processor, document scanner, archive manager, and file organizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
